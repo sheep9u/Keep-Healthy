@@ -1,5 +1,5 @@
 # Keep-Healthy
-As a programmer, you should master some nutrition-related knowledge to ensure your own state. 
+As a programmer, you should master some nutrition-related and stretching knowledge to ensure your own state. 
 # Glossary
 
 amino acid (氨基酸)
